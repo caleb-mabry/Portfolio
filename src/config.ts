@@ -5,7 +5,7 @@ export const SITE: Site = {
   author: "Caleb Mabry",
   desc: "I am a Full Stack Software Engineer who creates reliable and scalable applications with JS, Golang, Python, and AWS.",
   title: "Caleb Mabry",
-  ogImage: "caleb.svg",
+  ogImage: "caleb.png",
   lightAndDarkMode: true,
   postPerPage: 3,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
