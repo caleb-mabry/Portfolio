@@ -1,7 +1,6 @@
 ---
 author: Caleb Mabry
 pubDatetime: 2024-07-06T20:04:02Z
-modDatetime: 2024-01-08T18:59:05Z
 title: Example posting
 featured: false
 draft: false
