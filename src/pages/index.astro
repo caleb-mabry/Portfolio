@@ -45,15 +45,6 @@ const socialCount = SOCIALS.filter(social => social.active).length;
         I am a full stack software engineer who enjoys creating applications and solutions for myself, employers, and friends!
         You can typically find me writing code in JS, Golang, and Python while using services like AWS or Cloudflare to make deploying things easier.
       </p>
-      <p>
-        Read some of the cool things I'm making
-        <LinkButton
-          className="underline decoration-dashed underline-offset-4 hover:text-skin-accent"
-          href="https://github.com/satnaing/astro-paper#readme"
-        >
-          here
-        </LinkButton> for more info.
-      </p>
       {
         // only display if at least one social link is enabled
         socialCount > 0 && (
